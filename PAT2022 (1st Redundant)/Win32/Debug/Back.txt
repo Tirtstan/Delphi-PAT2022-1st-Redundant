@@ -1,0 +1,1 @@
+frmWelcome|frmWelcome.Hide frmLogin.show
